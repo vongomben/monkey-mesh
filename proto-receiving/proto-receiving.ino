@@ -3,7 +3,7 @@
 // Pins used on the Xiao ESP32S3
 #define SERIAL_RX_PIN 44   // GPIO44 (RX)
 #define SERIAL_TX_PIN 43   // GPIO43 (TX)
-#define BAUD_RATE 19200
+#define BAUD_RATE 9600
 
 #define SEND_PERIOD 300  // (optional) send every 300 seconds
 
