@@ -40,7 +40,7 @@ Visit [meshtastic web flasher](https://flasher.meshtastic.org/) and follow the i
 While you can go on from here using the Android or iOS app, I'll stick with the [meshtastic console](https://client.meshtastic.org/). 
 We are going to **define its Serial pins** (based on Xiao's pin mapping) and **enable protobuf communication**. 
 
-![configuring](./data/gif/02-Serial.gif)
+![configuring](./data/gif/02-serial.gif)
 
 Since I'm using the [Xiao Grove Shields](https://wiki.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-embedded-battery-management-chip/) I'm also sharing this useful image of the pin mapping. 
 
